@@ -1,0 +1,8 @@
+.hero {
+    padding: 10rem 2rem;
+    text-align: center;
+}
+
+.social-links > *{
+    padding: 0.5rem 1rem;
+}

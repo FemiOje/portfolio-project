@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    padding: 0.5rem 2rem;
+}
+
+.nav-links {
+    display: flex;
+    margin-left: auto;
+}
+
+.nav-link {
+    color: #FFFFFF;
+    padding: 1rem;
+}
+
+@media (max-width: 768px) {
+    .nav-links {
+        display: none;
+    }
+}
