@@ -3,9 +3,10 @@
 }
 
 .navbar-and-hero {
-  background: transparent;
+  /* background: transparent; */
   background-image: url(src/images/raul-iqbal-bg-image-1.png);
-  background-size: cover;
-  background-repeat: no-repeat;
-  min-width: 100vw;
+  color: white;
+  /* background-size: cover; */
+  /* background-repeat: no-repeat; */
+  /* width: 100vw; */
 }

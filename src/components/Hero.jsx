@@ -4,12 +4,12 @@ import '../styles/Hero.css';
 const Hero = () => {
   return (
     <section className="hero">
+      <div className="hero-text">
+        <h1>Oluwafemi Ojetokun</h1>
+        <h3>Front-end Developer | Game Programmer/ Developer</h3>
+      </div>
 
-      <h2>I&apos;m Oluwafemi Ojetokun</h2>
-      
-      <p>Front-end Developer | Game Programmer/ Developer</p>
-      
-      
+
       <div className="social-links">
         <a href="https://www.twitter.com/FemiOje">Twitter svg</a>
         <a href="mailto:ojetokunakinwale@gmail.com">Gmail svg</a>
