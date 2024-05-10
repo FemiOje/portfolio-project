@@ -41,9 +41,9 @@
 }
 
 @media (max-width: 768px) {
-    .what-i-do {
-        /* padding: 0 5rem; */
-    }
+    /* .what-i-do {
+        padding: 0 5rem;
+    } */
 }
 
 .what-i-do>* {
@@ -62,7 +62,7 @@
 
 .skills-card{
     border-radius: 1rem;
-    margin: 2rem;
+    margin: 2rem auto;
     padding: 2rem;
     background-color: #292C36;
 }

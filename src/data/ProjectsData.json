@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "imagePath": "https://images.pexels.com/photos/39853/woman-girl-freedom-happy-39853.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "name": "Fishfest Game Jam",
+        "description": "This is the project description for the projectt which I built for my portfolio",
+        "technologies": "ReactJS, C#, and JavaScript"
+    },
+    {
+        "id": 2,
+        "imagePath": "src/images/about-image.png",
+        "name": "Fishfest Game Jam",
+        "description": "This is the project description for the projectt which I built for my portfolio",
+        "technologies": "ReactJS, C#, and JavaScript"
+    },
+    {
+        "id": 3,
+        "imagePath": "src/images/about-image.png",
+        "name": "Fishfest Game Jam",
+        "description": "This is the project description for the projectt which I built for my portfolio",
+        "technologies": "ReactJS, C#, and JavaScript"
+    },
+    {
+        "id": 4,
+        "imagePath": "src/images/about-image.png",
+        "name": "Fishfest Game Jam",
+        "description": "This is the project description for the projectt which I built for my portfolio",
+        "technologies": "ReactJS, C#, and JavaScript"
+    },
+    {
+        "id": 5,
+        "imagePath": "src/images/about-image.png",
+        "name": "Fishfest Game Jam",
+        "description": "This is the project description for the projectt which I built for my portfolio",
+        "technologies": "ReactJS, C#, and JavaScript"
+    }
+]
